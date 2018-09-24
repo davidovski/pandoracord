@@ -100,7 +100,7 @@ public class PandoraRun {
             j.put("token", "<enter your bot's token here>");
             j.put("prefix", "!");
             j.put("owner_id", "000000000000000000");
-            j.put("pandorabot_id", "f6d4afd83e34564d");
+            j.put("pandorabot_id", "    ");
             j.put("reply_to_mentions", true);
 
             try {
