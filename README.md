@@ -16,9 +16,9 @@ Create a chat bot on your discord server. Pandora cord is very easy to setup and
 
 It is quite hard to find good pandora bot IDs, but i have made a list of a few that you can try:
 
-- Lauren  f6d4afd83e34564d (default)
+- Lauren  `f6d4afd83e34564d` (default)
 
-- Peter The Professor  935a0a567e34523c
+- Peter The Professor  `935a0a567e34523c`
 
-- Chomsky  b0dafd24ee35a477
+- Chomsky  `b0dafd24ee35a477`
 
