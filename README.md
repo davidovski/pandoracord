@@ -12,7 +12,10 @@ Create a chat bot on your discord server. Pandora cord is very easy to setup and
 7. Run the jar again.
 8. Add the bot to your server and try the help command
 
-# Pandora bot ids
+# Pandora Bot IDs
 
 It is quite hard to find good pandora bot IDs, but i have made a list of a few that you can try:
 
+Lauren - f6d4afd83e34564d
+Peter The Professor - 935a0a567e34523c
+Chomsky - b0dafd24ee35a477
