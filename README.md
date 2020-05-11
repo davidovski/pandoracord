@@ -1,3 +1,5 @@
+THIS PROJECT IS DEAD if you wish to continue this project please make a fork!!
+
 # Pandora-Cord
 Create a chat bot on your discord server. Pandora cord is very easy to setup and use. The bot uses http://pandorabots.com as an api to bring it to life. 
 
